@@ -4,10 +4,11 @@ A project based learning activity for people who are getting started with Git an
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
-1. Scroll down to the section titled _GitHub Pages_
-1. Select **main** from the Source drop-down.
-1. Click **Save**.
-1. Navigate to the URL provided in the same section.
+2. Scroll down to the section titled _Pages_ in the right-hand side menu bar.
+3. Select **main** from the Source drop-down.
+4. Click **Save**.
+5. Underneath **main**, it should say "Your site was last deployed at _Github Pages_".
+6. To view the deployed application, click the _Github Pages_ link.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
